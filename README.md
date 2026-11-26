@@ -31,7 +31,7 @@ This open-source repository is the **MIT-licensed Lite Edition**. Building a com
 | **AI Cost Guardrails:** Redis-Backed Per-Tenant Daily Token Quotas | — | ✅ |
 | **Security Test Suite:** Cross-Tenant Isolation Integration Tests | — | ✅ |
 
-👉 **[Upgrade to BootForge AI Pro ($199 Solo / $349 Team) →](https://polar.sh/your-checkout-link)**
+👉 **[Upgrade to BootForge AI Pro ($199 Solo / $349 Team) →](https://buy.polar.sh/polar_cl_bEoOSNGbA3IdbuPqmAgEXVBthgrf54WXtLP2e3G9ekc)**
 
 ---
 
